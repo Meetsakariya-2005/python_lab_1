@@ -1,0 +1,8 @@
+EMPNAME = ["MEET","DD","VISHAL","PRAKASH"]
+print(EMPNAME)
+
+EMPNAME.append("NIRAV")
+print(EMPNAME)
+
+EMPNAME.remove("VISHAL")
+print(EMPNAME)
